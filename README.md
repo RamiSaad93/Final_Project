@@ -17,6 +17,6 @@
   3) Third Part: Predictive Model For Bike Accidents
 
   # Final Presentation : 
-            https://www.canva.com/design/DAGGu1YJj-A/ZoV3-Tv0QEUYIxJFjnP93g/edit?utm_content=DAGGu1YJj-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  https://www.canva.com/design/DAGGu1YJj-A/ZoV3-Tv0QEUYIxJFjnP93g/edit?utm_content=DAGGu1YJj-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   # Tableau viz: 
-            https://public.tableau.com/views/FinalProjectDivvy/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+  https://public.tableau.com/views/FinalProjectDivvy/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
